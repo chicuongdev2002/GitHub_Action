@@ -1,0 +1,1 @@
+package vn.edu.iuh.fit.enity;import lombok.AllArgsConstructor;import lombok.Getter;import lombok.NoArgsConstructor;import lombok.Setter;@Getter@Setter@NoArgsConstructor@AllArgsConstructorpublic class User {    private long UserId;    private String UserName;    private String Password;    private String Email;}

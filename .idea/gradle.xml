@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../13-3/Jwt" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../13-3/Jwt" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../JWT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../JWT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ApiGatewayService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ApiGatewayService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/DiscoveryService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/DiscoveryService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/JWT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/JWT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Jwt" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Jwt" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/LoginService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/LoginService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RegisterService" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RegisterService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Test" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../SoftwareArchitecture-Week6/JWT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../SoftwareArchitecture-Week6/JWT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

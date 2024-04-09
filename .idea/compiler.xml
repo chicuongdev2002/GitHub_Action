@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../HK1(2023-2024)/LapTrinhWWW/gradle-8.2/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="Test.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JWT" target="17" />
+      <module name="Jwt" target="17" />
+      <module name="JWT.main" target="17" />
+      <module name="JWT.test" target="17" />
+      <module name="Service1_Auth_JWT" target="17" />
+      <module name="Service1_Auth_JWT.main" target="17" />
+      <module name="Service1_Auth_JWT.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

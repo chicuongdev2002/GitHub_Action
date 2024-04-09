@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bfaaf75-cbe2-4f39-b719-f97b722848f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/src/main/java/vn/edu/iuh/fit/ApiGatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGatewayService/src/test/java/vn/edu/iuh/fit/ApiGatewayServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscoveryService/MinhChung/Cau3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/serivice/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/TestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/authen/UserPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/entity/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/filter/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/repository/TokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/service/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/service/TokenServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/java/vn/edu/iuh/fit/util/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/test/java/vn/edu/iuh/fit/TestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryService/src/main/java/vn/edu/iuh/fit/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiscoveryService/src/main/java/vn/edu/iuh/fit/DiscoveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DiscoveryService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LoginService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginService/src/main/java/vn/edu/iuh/fit/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoginService/src/main/java/vn/edu/iuh/fit/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginService/src/main/java/vn/edu/iuh/fit/enity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoginService/src/main/java/vn/edu/iuh/fit/enity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LoginService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/repositories/RegisterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/repositories/RegisterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/serivice/RegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/src/main/java/n/edu/iuh/fit/serivice/RegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterService/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../13-3/Jwt">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../JWT">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ApiGatewayService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/DiscoveryService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/JWT">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Jwt">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/LoginService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/RegisterService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Test">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../SoftwareArchitecture-Week6/JWT">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RegisterService" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eJiwlCRSt4LBoiiNjZkWq0Em4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/HK2(2023-2024)/KIENTRUCPHANMEM/OnTapGk2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HK2(2023-2024)\KIENTRUCPHANMEM\OnTapGk1\Test\src\main\resources" />
+      <recent name="D:\HK2(2023-2024)\KIENTRUCPHANMEM\OnTapGk1\Test\src\main\java\vn\edu\iuh\fit" />
+      <recent name="D:\HK2(2023-2024)\KIENTRUCPHANMEM\OnTapGk1\Jwt\src\main\java\vn\edu\iuh\fit\auth_jwt" />
+      <recent name="D:\HK2(2023-2024)\KIENTRUCPHANMEM\OnTapGk1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HK2(2023-2024)\KIENTRUCPHANMEM\OnTapGk1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n.edu.iuh.fit.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="ChromiumRemoteDebugType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestApplication">
+    <configuration name="D:/HK2(2023-2024)/KIENTRUCPHANMEM/OnTapGk1/Jwt/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Jwt/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ApiGatewayService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.ApiGatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DiscoveryService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="LoginService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.LoginServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="RegisterService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="n.edu.iuh.fit.RegisterServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/HK2(2023-2024)/KIENTRUCPHANMEM/OnTapGk1/Jwt/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bfaaf75-cbe2-4f39-b719-f97b722848f8" name="Changes" comment="" />
+      <created>1711629322418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711629322418</updated>
+      <workItem from="1711629323413" duration="11566000" />
+      <workItem from="1711641100956" duration="346000" />
+      <workItem from="1711642210407" duration="602000" />
+      <workItem from="1711642827948" duration="6007000" />
+      <workItem from="1711648917150" duration="1325000" />
+      <workItem from="1711682517186" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

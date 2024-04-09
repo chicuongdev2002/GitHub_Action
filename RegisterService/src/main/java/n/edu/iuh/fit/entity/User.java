@@ -1,0 +1,1 @@
+package n.edu.iuh.fit.entity;import jakarta.persistence.*;import lombok.*;@Entity@Getter@Setter@AllArgsConstructor @NoArgsConstructor@Datapublic class User {    @Id    @GeneratedValue(strategy = GenerationType.IDENTITY)    private long UserId;    private String UserName;    private String Password;    private String Email;}
